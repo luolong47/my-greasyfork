@@ -2,7 +2,7 @@
 // @name         Linux.do 增强 - 帖子自动于新标签页打开
 // @name:en      Linux.do Enhanced - Open Posts in New Tab
 // @namespace    https://greasyfork.org/
-// @version      2.1.0
+// @version      2.1.1
 // @description  使 Linux.do 的帖子链接自动在新标签页中打开，并直接跳转外部链接（跳过确认窗口），让浏览体验更流畅。
 // @description:en Automatically open Linux.do post links in a new tab and direct jump to external links (skip confirmation window) for a seamless browsing experience.
 // @author       BIGFA & Gemini (完善版)
@@ -10,8 +10,8 @@
 // @grant        none
 // @run-at       document-start
 // @license      GPL-3.0
-// @downloadURL https://raw.githubusercontent.com/luolong47/my-greasyfork/master/linux-do-enhanced.user.js
-// @updateURL https://raw.githubusercontent.com/luolong47/my-greasyfork/master/linux-do-enhanced.user.js
+// @downloadURL https://raw.githubusercontent.com/luolong47/my-greasyfork/main/linux-do-enhanced.user.js
+// @updateURL https://raw.githubusercontent.com/luolong47/my-greasyfork/main/linux-do-enhanced.user.js
 // ==/UserScript==
  
 (function() {
